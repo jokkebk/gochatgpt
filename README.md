@@ -1,4 +1,4 @@
-# gosvelte
+# gochatgpt
 
 Golang controlled ChatGPT client with SvelteKit GUI.
 
